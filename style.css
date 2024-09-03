@@ -1,0 +1,34 @@
+.commercial-h1{
+    color: gold;
+}
+.ice-cold{
+    border: none;
+    border-radius: 30%;
+
+}
+.description{
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+.sbo3a{
+    border-radius: 20%;
+    width: 550px;
+    height: 550px;
+    display: flex;
+    align-items: center;
+}
+.kora{
+    text-align: center;
+    color: orangered;
+    margin-top: 150px;
+    margin-right: 150px;
+    
+}
+.heading-2{
+  color: gold;  
+}
+    
+
+
